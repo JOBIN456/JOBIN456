@@ -1,62 +1,87 @@
-<h1 align="left">Hi 👋! My name is Jobin</h1>
+<h1 align="center">Hi 👋, I'm Jobin Jose</h1>
 
-###
+<h3 align="center">
+Full Stack AI Engineer | RAG Systems | Computer Vision | FastAPI | LangGraph
+</h3>
 
-<h1 align="center">Python Full Stack Engineer (AI,ML)</h1>
+<img align="right" height="180" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
-###
+---
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
+## 🚀 About Me
 
-###
+- 💻 Full Stack AI Engineer 
+- 🤖 Building AI-powered applications using LangGraph, RAG, and Computer Vision
+- ⚡ Experienced in FastAPI, Django, ReactJS, Docker, and Vector Databases
+- 🧠 Worked on production AI chatbots with memory, SQL agents, and multi-LLM workflows
+- 🎯 Built real-time monitoring systems using YOLOv8, OCR, and OpenCV
+- 📦 Published Python package on PyPI: **pyvalidex**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 AI / ML / GenAI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+- LangChain
+- LangGraph
+- RAG Pipelines
+- YOLOv8
+- OpenCV
+- OCR
+- Sentence Transformers
+- Qdrant
+- ChromaDB
+
+---
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
+</p>
+
+- REST APIs
+- Microservices
+- SQL Agents
+- Docker
+- Authentication Systems
+
+---
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" />
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
+
+- Qdrant
+- ChromaDB
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
 
+## 📈 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JOBIN456&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOBIN456&theme=tokyonight" />
+</p>
 
+---
 
+## 🌐 Connect With Me
 
-###
-
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
+- LinkedIn: https://www.linkedin.com/in/jobin-jose-366167260
+- GitHub: https://github.com/JOBIN456
+- Email: jobinj5210@gmail.com
